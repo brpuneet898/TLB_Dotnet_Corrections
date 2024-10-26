@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/oHprNEqgc=",
+  "success": true,
+  "projectFilePath": "/mnt/c/My Folder/Random Projects/dotnet-puneet/TheLegalBook.csproj",
+  "expectedPackageFiles": [
+    "/home/puneet/.nuget/packages/documentformat.openxml/3.1.0/documentformat.openxml.3.1.0.nupkg.sha512",
+    "/home/puneet/.nuget/packages/documentformat.openxml.framework/3.1.0/documentformat.openxml.framework.3.1.0.nupkg.sha512",
+    "/home/puneet/.nuget/packages/microsoft.aspnetcore.openapi/8.0.8/microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
+    "/home/puneet/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/puneet/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/home/puneet/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/puneet/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/puneet/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/puneet/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/puneet/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/puneet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/puneet/.nuget/packages/syncfusion.compression.net.core/27.1.50/syncfusion.compression.net.core.27.1.50.nupkg.sha512",
+    "/home/puneet/.nuget/packages/syncfusion.docio.net.core/27.1.50/syncfusion.docio.net.core.27.1.50.nupkg.sha512",
+    "/home/puneet/.nuget/packages/syncfusion.ej2.aspnet.core/27.1.50/syncfusion.ej2.aspnet.core.27.1.50.nupkg.sha512",
+    "/home/puneet/.nuget/packages/syncfusion.ej2.wordeditor.aspnet.core/27.1.50/syncfusion.ej2.wordeditor.aspnet.core.27.1.50.nupkg.sha512",
+    "/home/puneet/.nuget/packages/syncfusion.licensing/27.1.50/syncfusion.licensing.27.1.50.nupkg.sha512",
+    "/home/puneet/.nuget/packages/syncfusion.officechart.net.core/27.1.50/syncfusion.officechart.net.core.27.1.50.nupkg.sha512",
+    "/home/puneet/.nuget/packages/system.io.packaging/8.0.0/system.io.packaging.8.0.0.nupkg.sha512",
+    "/home/puneet/.nuget/packages/system.text.encoding.codepages/4.4.0/system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

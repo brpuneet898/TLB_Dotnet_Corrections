@@ -1,0 +1,57 @@
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/appsettings.Development.json
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/appsettings.json
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/TheLegalBook.exe
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/TheLegalBook.deps.json
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/TheLegalBook.runtimeconfig.json
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/TheLegalBook.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/TheLegalBook.pdb
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Syncfusion.Compression.Portable.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Syncfusion.DocIO.Portable.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Syncfusion.EJ2.DocumentEditor.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Syncfusion.Licensing.dll
+D:/Gauri/TheLegalBook/bin/Debug/net6.0/Syncfusion.OfficeChart.Portable.dll
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.csproj.AssemblyReference.cache
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.GeneratedMSBuildEditorConfig.editorconfig
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.AssemblyInfoInputs.cache
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.AssemblyInfo.cs
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.csproj.CoreCompileInputs.cache
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.MvcApplicationPartsAssemblyInfo.cs
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.MvcApplicationPartsAssemblyInfo.cache
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/staticwebassets/msbuild.TheLegalBook.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/staticwebassets/msbuild.build.TheLegalBook.props
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TheLegalBook.props
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TheLegalBook.props
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/staticwebassets.pack.json
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/staticwebassets.build.json
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/staticwebassets.development.json
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/scopedcss/bundle/TheLegalBook.styles.css
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.csproj.CopyComplete
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.dll
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/refint/TheLegalBook.dll
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.pdb
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/TheLegalBook.genruntimeconfig.cache
+D:/Gauri/TheLegalBook/obj/Debug/net6.0/ref/TheLegalBook.dll
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.csproj.AssemblyReference.cache
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.GeneratedMSBuildEditorConfig.editorconfig
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.AssemblyInfoInputs.cache
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.AssemblyInfo.cs
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.csproj.CoreCompileInputs.cache
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.MvcApplicationPartsAssemblyInfo.cs
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.MvcApplicationPartsAssemblyInfo.cache
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.sourcelink.json
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.dll
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/refint/TheLegalBook.dll
+C:/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.pdb
+/mnt/c/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.csproj.AssemblyReference.cache
+/mnt/c/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.AssemblyInfoInputs.cache
+/mnt/c/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.AssemblyInfo.cs
+/mnt/c/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.csproj.CoreCompileInputs.cache
+/mnt/c/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.MvcApplicationPartsAssemblyInfo.cs
+/mnt/c/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/My Folder/Random Projects/dotnet/obj/Debug/net6.0/TheLegalBook.sourcelink.json
